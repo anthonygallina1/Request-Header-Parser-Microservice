@@ -1,0 +1,31 @@
+{
+  "name": "request_header_parser_microservice",
+  "version": "1.0.0",
+  "description": "This can get the IP address, language and operating system for a browser.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "nodejs": "^0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonygallina1/Request-Header-Parser-Microservice.git"
+  },
+  "keywords": [
+    "Request",
+    "Header",
+    "Paser",
+    "Microservice"
+  ],
+  "author": "anthonygallina1",
+  "license": "(MIT)",
+  "bugs": {
+    "url": "https://github.com/anthonygallina1/Request-Header-Parser-Microservice/issues"
+  },
+  "homepage": "https://github.com/anthonygallina1/Request-Header-Parser-Microservice#readme"
+}
